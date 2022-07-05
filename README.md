@@ -4,4 +4,4 @@ Primeiro app mobile feito em Flutter.
 
 ## Instalação
 
-No terminal digite `pub get`
+No terminal digite `flutter pub get`
