@@ -1,16 +1,7 @@
-# api_rest_flutter
+# Api Rest Flutter
 
-A new Flutter project.
+Primeiro app mobile feito em Flutter.
 
-## Getting Started
+## Instalação
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No terminal digite `pub get`
